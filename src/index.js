@@ -7,7 +7,8 @@ import {
   BrowserRouter as Router,
   Route,
   Link
-} from 'react-router-dom'
+} from 'react-router-dom';
+import Home from './Home'
 
 ReactDOM.render(
   <Router>
