@@ -9,6 +9,8 @@ import {
   Link
 } from 'react-router-dom';
 import Home from './Home'
+import Contact from './Contact'
+
 
 ReactDOM.render(
   <Router>
